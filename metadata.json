@@ -1,0 +1,6 @@
+{
+  "name": "PiketKu - Jadwal & Informasi Kelas",
+  "description": "Aplikasi manajemen jadwal piket kebersihan kelas, absensi harian siswa, dan pengumuman kelas digital untuk SMKN 24 Jakarta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
